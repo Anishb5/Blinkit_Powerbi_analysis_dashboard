@@ -6,27 +6,27 @@ This project involves a detailed analysis of Blinkit's sales performance, custom
 
 Steps in the Project
 
-Requirement Gathering / Business Requirements
+1.Requirement Gathering / Business Requirements
 
-Data Walkthrough
+2.Data Walkthrough
 
-Data Connection
+3.Data Connection
 
-Data Cleaning / Quality Check
+4.Data Cleaning / Quality Check
 
-Data Modeling
+5.Data Modeling
 
-Data Processing
+6.Data Processing
 
-DAX Calculations
+7.DAX Calculations
 
-Dashboard Layouting
+8.Dashboard Layouting
 
-Charts Development and Formatting
+9.Charts Development and Formatting
 
-Dashboard / Report Development
+10.Dashboard / Report Development
 
-Insights Generation
+11.Insights Generation
 
 Business Requirement
 
@@ -34,31 +34,31 @@ The primary goal is to analyze Blinkit's sales performance, customer satisfactio
 
 Key KPIs
 
-Total Sales: The overall revenue generated from all items sold.
+1.Total Sales: The overall revenue generated from all items sold.
 
-Average Sales: The average revenue per sale.
+2.Average Sales: The average revenue per sale.
 
-Number of Items: The total count of different items sold.
+3.Number of Items: The total count of different items sold.
 
-Average Rating: The average customer rating for items sold.
+4.Average Rating: The average customer rating for items sold.
 
 Chart Requirements
 
-Total Sales by Fat Content
+1.Total Sales by Fat Content
 
-Objective: Analyze the impact of fat content on total sales.
+      a.Objective: Analyze the impact of fat content on total sales.
+      
+      b.Additional KPI Metrics: Assess how Average Sales, Number of Items, and Average Rating vary with fat content.
+      
+      c.Chart Type: Donut Chart.
 
-Additional KPI Metrics: Assess how Average Sales, Number of Items, and Average Rating vary with fat content.
+2.Total Sales by Item Type
 
-Chart Type: Donut Chart.
-
-Total Sales by Item Type
-
-Objective: Identify the performance of different item types in terms of total sales.
-
-Additional KPI Metrics: Assess how Average Sales, Number of Items, and Average Rating vary with item type.
-
-Chart Type: Bar Chart.
+      Objective: Identify the performance of different item types in terms of total sales.
+      
+      Additional KPI Metrics: Assess how Average Sales, Number of Items, and Average Rating vary with item type.
+      
+      Chart Type: Bar Chart.
 
 Fat Content by Outlet for Total Sales
 
